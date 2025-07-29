@@ -1,4 +1,4 @@
-Order_id,Date,Time
+Order_id,Order_date,Order_time
 1,01-01-2015,11:38:36
 2,01-01-2015,11:57:40
 3,01-01-2015,12:12:28
